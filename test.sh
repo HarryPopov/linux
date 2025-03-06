@@ -1,5 +1,2 @@
 #!/bin/bash
-test
-test
-test
-test
+echo "Current Date and Time: $(date)"
