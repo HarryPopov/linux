@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Current Date and Time: $(date)"
+echo $(date -u) "Some message or other"
