@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Current Date and Time: $(date '+%Y-%m-%d €H:%M:%S')" >> /github/time.txt
+sudo echo "Current Date and Time: $(date '+%Y-%m-%d €H:%M:%S')" >> /github/time.txt
